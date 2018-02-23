@@ -227,7 +227,7 @@ body {
 
 .page-header {
 	height: 100vh;
-	background: #000 url("../img/bkg--small.jpg") no-repeat center center;
+	background: #000 url("../img/bkg--lg.jpg") no-repeat center center;
 	background-size: cover;
 	position: relative;
 }
@@ -836,7 +836,7 @@ body {
 
 .page-header {
 	height: 600px;
-	background: #000 url("../img/bkg--medium.jpg") no-repeat center center;
+	background: #000 url("../img/bkg--lg.jpg") no-repeat center center;
 	background-size: 1024px 600px;
 }
 
